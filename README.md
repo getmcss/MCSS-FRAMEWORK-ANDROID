@@ -42,7 +42,7 @@ Once you create a .mcss file, that can be stored either on an external URL or lo
 2.  Open the module's build.gradle file, add the following code fragment:
 
 		dependencies {
-			implementation 'com.github.getmcss:MCSS-FRAMEWORK-ANDROID:1.0.2'
+			implementation 'com.github.getmcss:MCSS-FRAMEWORK-ANDROID:1.0.3'
 		}
 
 
